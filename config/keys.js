@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURI: 'mongodb+srv://admin:admin123@cluster0.cpqvksd.mongodb.net/?retryWrites=true&w=majority'
+  mongoURI: '填写你自己的mongo uri'
 }
